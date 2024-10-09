@@ -31,6 +31,16 @@ Traffic Crashes - Crashes https://data.cityofchicago.org/Transportation/Traffic-
 
 Traffic Crashes - Vehicles https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3/about_data
 
+## Citation
+If you find our work useful in your research, please cite:
+```
+@inproceedings{yi2024get,
+  title={Get Rid of Task Isolation: A Continuous Multi-task Spatio-Temporal Learning Framework},
+  author={Yi, Zhongchao and Zhou, Zhengyang and Huang, Qihe and Chen, Yanjiang and Yu, Liheng and Wang, Xu and Wang, Yang},
+  booktitle={Thirty-eighth Conference on Neural Information Processing Systems},
+  year={2024}
+}
+```
 
 ## Contact
 If you have any questions or suggestions, please feel free to contact:
@@ -41,6 +51,8 @@ If you have any questions or suggestions, please feel free to contact:
 ## Acknowledgement
 
 We sincerely thanks the following GitHub repositories for providing valuable codebases and datasets:
+
+https://github.com/liuxu77/LargeST
 
 https://github.com/ACAT-SCUT/CycleNet
 
