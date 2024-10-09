@@ -48,6 +48,14 @@ If you have any questions or suggestions, please feel free to contact:
 - Zhengyang Zhou ([zzy0929@ustc.edu.cn]())
 
 
+## More Related Works
+
+- [ComS2T: A complementary spatiotemporal learning system for data-adaptive model evolution. arXiv Preprint.](https://arxiv.org/pdf/2403.01738)
+
+- [Maintaining the status quo: Capturing invariant relations for OOD spatiotemporal learning. KDD'23.](https://github.com/zzyy0929/KDD23-CauSTG)
+
+- [LeRet: Language-Empowered Retentive Network for Time Series Forecasting. IJCAI'24.](https://github.com/hqh0728/LeRet)
+
 ## Acknowledgement
 
 We sincerely thanks the following GitHub repositories for providing valuable codebases and datasets:
