@@ -31,6 +31,20 @@ Traffic Crashes - Crashes https://data.cityofchicago.org/Transportation/Traffic-
 
 Traffic Crashes - Vehicles https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3/about_data
 
+## Data Preparation
+
+This can be found in `./data/README.md`.
+
+## Training Example
+
+```python
+python main.py --dataset NYC --num_nodes 206 --tod_size 48 --gpu 0
+```
+
+```python
+python main.py --dataset CHI --num_nodes 220 --tod_size 48 --gpu 1
+```
+
 ## Citation
 If you find our work useful in your research, please cite:
 ```
