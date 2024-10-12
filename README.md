@@ -66,9 +66,9 @@ If you have any questions or suggestions, please feel free to contact:
 
 - [ComS2T: A complementary spatiotemporal learning system for data-adaptive model evolution. arXiv Preprint.](https://arxiv.org/pdf/2403.01738)
 
-- [Maintaining the status quo: Capturing invariant relations for OOD spatiotemporal learning. KDD'23.](https://github.com/zzyy0929/KDD23-CauSTG)
+- [Maintaining the status quo: Capturing invariant relations for OOD spatiotemporal learning. KDD'23.](http://home.ustc.edu.cn/~zzy0929/Home/Paper/KDD23_CauSTG.pdf) [[Code]](https://github.com/zzyy0929/KDD23-CauSTG)
 
-- [LeRet: Language-Empowered Retentive Network for Time Series Forecasting. IJCAI'24.](https://github.com/hqh0728/LeRet)
+- [LeRet: Language-Empowered Retentive Network for Time Series Forecasting. IJCAI'24.](http://home.ustc.edu.cn/~zzy0929/Home/Paper/IJCAI24_LeRet.pdf) [[Code]](https://github.com/hqh0728/LeRet)
 
 ## Acknowledgement
 
