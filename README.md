@@ -49,7 +49,7 @@ python main.py --dataset CHI --num_nodes 220 --tod_size 48 --gpu 1
 If you find our work useful in your research, please cite:
 ```
 @inproceedings{yi2024get,
-  title={Get Rid of Task Isolation: A Continuous Multi-task Spatio-Temporal Learning Framework},
+  title={Get Rid of Isolation: A Continuous Multi-task Spatio-Temporal Learning Framework},
   author={Yi, Zhongchao and Zhou, Zhengyang and Huang, Qihe and Chen, Yanjiang and Yu, Liheng and Wang, Xu and Wang, Yang},
   booktitle={Thirty-eighth Conference on Neural Information Processing Systems},
   year={2024}
