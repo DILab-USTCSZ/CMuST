@@ -1,4 +1,4 @@
-# Get Rid of Task Isolation: A Continuous Multi-task Spatio-Temporal Learning Framework
+# Get Rid of Isolation: A Continuous Multi-task Spatio-Temporal Learning Framework
 
 This folder concludes the further revised version of pytorch implementation of our CMuST model.
 
