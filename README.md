@@ -80,8 +80,12 @@ https://github.com/ACAT-SCUT/CycleNet
 
 https://github.com/nnzhan/Graph-WaveNet
 
+https://github.com/Zhang-Zijian/PromptST
+
 https://github.com/GestaltCogTeam/STID
 
 https://github.com/XDZhelheim/STAEformer
 
 https://github.com/Echohhhhhh/GSNet
+
+https://nn.labml.ai/diffusion/stable_diffusion/model/autoencoder.html
